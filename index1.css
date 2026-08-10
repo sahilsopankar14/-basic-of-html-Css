@@ -1,0 +1,18 @@
+h1{
+    text-align:center;
+    text-decoration:underline red  wavy;
+    font-family:cursive;
+}
+h3{
+    text-align:right;
+    text-decoration:line-through ;
+}  
+h2{
+    font-weight: 100;
+    text-decoration:double overline; 
+}
+p{
+    text-align:justify;
+    font-size:10px;
+    font-family: avant garde,didot,sans-serif;
+}                                                                                                       
