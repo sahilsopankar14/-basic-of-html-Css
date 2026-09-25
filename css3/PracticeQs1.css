@@ -1,0 +1,31 @@
+.container{
+    height: 200px;
+    width:70px;
+    border:2px solid black;
+    margin:10px;
+}
+
+.inner1{
+    height:50px;
+    width:50px;
+    border:2px solid black;
+    margin:10px;
+    border-radius:50%;
+    background-color: red;
+}
+.inner2{
+    height:50px;
+    width:50px;
+    border:2px solid black;
+    margin:10px;
+    border-radius:50%;
+    background-color: rgb(204, 229, 19);
+}
+.inner3{
+    height:50px;
+    width:50px;
+    border:2px solid black;
+    margin:10px;
+    border-radius:50%;
+    background-color: rgb(13, 138, 34);
+}
