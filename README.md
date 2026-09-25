@@ -1,1 +1,1 @@
-the above is  the basic of html and css 
+The Above Codes is The Basic Of Css And Html part 1 & 2. 
